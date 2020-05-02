@@ -1,0 +1,39 @@
+
+.ipsFAQForm label {
+    display: inline-block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.ipsFAQForm .form-control {
+    max-width: 380px;
+}
+.ipsFAQForm .form-control {
+    background-color: #ffffff;
+    background-image: none;
+    border: 1px solid #747474;
+    border-radius: 3px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+    color: #000000;
+    display: block;
+    font-size: 14px;
+    height: 35px;
+    line-height: 1.5;
+    padding: 6px 12px;
+    transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+    width: 100%;
+}
+.ipsThankYou{
+	margin-top: 20px;
+}
+
+.ipFAQList .title{
+	margin-bottom: 10px;
+	font-style:italic;
+	font-size:16px;
+}
+
+.ipFAQList .faq{
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+}
